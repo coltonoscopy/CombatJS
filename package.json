@@ -1,0 +1,9 @@
+{
+	"title": "CombatJS",
+	"version": "0.0.1",
+	"description": "A remake of the classic Combat game using Phaser and socket.io",
+	"dependencies": {
+		"express": "latest",
+		"socket.io": "latest"
+	} 
+}
